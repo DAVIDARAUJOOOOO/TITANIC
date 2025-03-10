@@ -30,5 +30,5 @@ The performance of the model is evaluated using metrics such as:
 
 ## Contact
 
-For any inquiries, please contact **enricortegab@gmail.com* or open an issue in the repository.
+For any inquiries, please contact **davidaraujogarcia12@gmail.com** or open an issue in the repository.
 
